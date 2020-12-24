@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<Resources language="English" code="EN">
+  <!-- user... -->
+	<page name="MENU_TOP">
+		<!-- common... -->
+		<Resource tag="LANGUAGE">Language</Resource>
+		<Resource tag="HOME">Home</Resource>
+		<Resource tag="NEWS">News</Resource>
+		<Resource tag="FORUM">Forum</Resource>
+    <Resource tag="CONTACT">Contact</Resource>
+    <Resource tag="HELP">Help</Resource>
+    <Resource tag="KEYWORD">Key word</Resource>
+    <Resource tag="SEARCH">Search</Resource>
+    <Resource tag="TOURISM">Tourism</Resource>
+  </page>
+	<page name="MENU_LEFT">
+		<!-- "Toolbar" at top of most pages -->
+		<Resource tag="MAINMENU">Channels</Resource>
+		<Resource tag="VIEWBYDAY">View By Day</Resource>
+		<Resource tag="ADVERTS">Played Programs</Resource>
+    <Resource tag="LOGINFORM">Login Information</Resource>
+    <Resource tag="USERNAME">Username</Resource>
+    <Resource tag="PASSWORD">Password</Resource>
+    <Resource tag="REGISTER">Register</Resource>
+    <Resource tag="LOSTPASS">Forgot password</Resource>
+	</page>
+  <page name="MENU_RIGHT">
+    <!-- "Toolbar" at top of most pages -->
+    <Resource tag="HOTNEWS">Schedule</Resource>
+    <Resource tag="ADVERTS">ADVERTS</Resource>    
+  </page>
+  <page name="MENU_FOOTER">
+    <!-- "Toolbar" at top of most pages -->
+    <Resource tag="COPYRIGHT">Copyright © AI Company. All rights reserved</Resource>    
+  </page>
+  <page name="CONTROL_WELCOME">
+    <!-- "Toolbar" at top of most pages -->
+    <Resource tag="SEARCH">Search</Resource>    
+  </page>
+  <page name="CONTROL_NEWS">
+    <!-- "Toolbar" at top of most pages -->
+    <Resource tag="HEADER">News Date On</Resource>    
+  </page>
+  <page name="CONTROL_FAVOR">
+		<!-- "Toolbar" at top of most pages -->
+		<Resource tag="FAVOR">Title</Resource>
+  </page>
+  <page name="CONTROL_NEWSDETAIL">
+    <!-- "Toolbar" at top of most pages -->
+    <Resource tag="HEADER">Detail News</Resource>
+    <Resource tag="OTHERNEWS">OTHER NEWS</Resource>
+  </page>
+  <page name="CONTROL_NEWSHOT">
+    <!-- "Toolbar" at top of most pages -->
+    <Resource tag="HEADER">Hot News</Resource>    
+  </page>
+  <page name="CONTROL_PAGING">
+    <!-- "Toolbar" at top of most pages -->
+    <Resource tag="FIRST">First</Resource>
+    <Resource tag="PREVIOUS">Previous</Resource>
+    <Resource tag="NEXT">Next</Resource>
+    <Resource tag="LAST">Last</Resource>    
+  </page>
+  <page name="CONTROL_PLAYER">
+    <!-- "Toolbar" at top of most pages -->
+    <Resource tag="TIME">Time</Resource>
+    <Resource tag="NOPROGRAM">Have no program yet</Resource>
+    <Resource tag="NOYETPROGRAM">Non Programme</Resource>
+	<Resource tag="NEXTPROGRAM">Next Program</Resource>
+	<Resource tag="PROGRAMCURRENT">Current Programs</Resource>
+	<Resource tag="PROGRAM">Programs</Resource>
+    <Resource tag="KARAOKE">Please choose a song to take karaoke</Resource>
+	<Resource tag="CHANNEL">Channel</Resource>
+  </page>
+  <page name="CONTROL_SEARCH">
+    <!-- "Toolbar" at top of most pages -->
+	<Resource tag="HEADER">Search Result</Resource>
+    <Resource tag="NEWS">News</Resource>
+    <Resource tag="PROGRAM">Program</Resource>
+  </page>
+	<page name="CONTROL_REGISTER">
+		<!-- "Toolbar" at top of most pages -->
+		<Resource tag="USER">Username</Resource>
+		<Resource tag="PASSWORD">Password</Resource>
+		<Resource tag="EMAIL">Email</Resource>
+		<Resource tag="DESC">Introduction</Resource>
+	</page>
+	<page name="CONTROL_KARAOKE">
+		<!-- "Toolbar" at top of most pages -->
+		<Resource tag="KARAOKE">KARAOKE</Resource>
+	</page>
+  <page name="COMMON">
+    <!-- "Common" at top of most pages -->
+    <Resource tag="SEARCH">SEARCH</Resource>
+  </page>
+  <!-- Admin... -->
+  <page name="AD_MAINMENU">
+    <!-- "Common" at top of most pages -->
+    <Resource tag="HOME">HOME</Resource>
+    <Resource tag="CHANNEL">Channel</Resource>
+    <Resource tag="VIDEO">Video</Resource>
+    <Resource tag="SCHEDULEVIDEO">VIDEO SHEDULE</Resource>
+    <Resource tag="NEWS">News</Resource>
+    <Resource tag="USER">Users</Resource>
+    <Resource tag="STATICCONTENT">Static Content</Resource>
+    <Resource tag="LANGUAGE">Using Language</Resource>
+    <Resource tag="LOGOUT">Logout</Resource>
+  </page>
+  <page name="AD_COMMON">
+    <!-- "Common" at top of most pages -->
+    <Resource tag="ADDNEW">Add new</Resource>
+    <Resource tag="UPDATE">Update</Resource>
+    <Resource tag="CANCEL">Cancel</Resource>
+    <Resource tag="EDIT">Edit</Resource>
+    <Resource tag="COMPOSE">COMPOSE</Resource>
+    <Resource tag="DETAIL">Detail</Resource>
+    <Resource tag="DELETE">Delete</Resource>
+    <Resource tag="FILLDATA">Input data</Resource>
+    <Resource tag="SEARCH">Search</Resource>
+    <Resource tag="EXISTED">This record existed!</Resource>
+    <Resource tag="UPDATEOK">Perform sucessfully</Resource>
+    <Resource tag="UPDATENOTOK">Perform not sucessfully</Resource>
+    <Resource tag="CONFIRM">Are you sure to perform this?</Resource>
+    <Resource tag="DATANOTCORRECT">Please input data correctly!</Resource>
+    <Resource tag="RUNNOTCORRECT">Process data not correctly!</Resource>
+    <Resource tag="REQUIREDATA">Please input data all field marked by *!</Resource>
+	<Resource tag="ADDNEWBYPACKAGE">Add new by package file</Resource>
+  </page>
+  <page name="AD_CHANNEL">
+    <!-- "Common" at top of most pages -->
+    <Resource tag="TITLE">Title</Resource>
+    <Resource tag="DESC">Description</Resource>
+    <Resource tag="USE">Use?</Resource>        
+    <Resource tag="SEARCH">Search</Resource>
+    <Resource tag="ONLINE">Online</Resource>
+  </page>
+  <page name="AD_VIDEO">
+    <!-- "Common" at top of most pages -->
+    <Resource tag="KEYWORD">Key word</Resource>    
+    <Resource tag="HEADER">List Of Video </Resource>
+    <Resource tag="SEARCH">Search</Resource>
+    <Resource tag="SCHEDULEVIDEO">SCHEDULE VIDEO</Resource>
+    <Resource tag="DATE">Date To Play</Resource>
+    <Resource tag="USE">Using?</Resource>
+    <Resource tag="CHANNEL">CHANNEL</Resource>
+    <Resource tag="DELETE">Delete Choosen Options</Resource>
+    <Resource tag="TITLE">Title</Resource>
+    <Resource tag="FILETOPLAY">File To Play</Resource>
+    <Resource tag="AUTHOR">Author</Resource>
+    <Resource tag="SCHEDULEVIDEO">SCHEDULE VIDEO</Resource>
+    <Resource tag="DATE">Date To Play</Resource>
+    <Resource tag="USE">Using?</Resource>    
+    <Resource tag="TIMETOPLAY">Time To Play</Resource>
+    <Resource tag="SHORTDESC">Short Description</Resource>
+    <Resource tag="CONTENT">CONTENT</Resource>
+    <Resource tag="IMAGE">Image</Resource>
+    <Resource tag="USE1">All</Resource>
+    <Resource tag="USE2">Not Use</Resource>
+    <Resource tag="USE3">Using</Resource>
+  </page>
+  <page name="AD_NEWS">
+    <!-- "Common" at top of most pages -->
+    <Resource tag="HEADER">LIST OF NEWS</Resource>
+    <Resource tag="TITLE">TITLE</Resource>
+    <Resource tag="CATALOGY">CATALOGY</Resource>
+    <Resource tag="IMAGEPATH">IMAGE PATH</Resource>
+    <Resource tag="IMAGEDESC">IMAGE DESC</Resource>
+    <Resource tag="SHORTDESC">SHORT DESCRIPTION</Resource>
+    <Resource tag="CONTENT">CONTENT</Resource>
+    <Resource tag="PUBLIC">Public</Resource>
+  </page>
+  <page name="AD_SCHEDULEVIDEO">
+    <!-- "Common" at top of most pages -->
+    <Resource tag="HEADER">Schedule Video</Resource>
+    <Resource tag="VIEWSCHEDULE">View Schedule </Resource>
+    <Resource tag="VIEWITEM">View Item </Resource>
+    <Resource tag="DATE">Date</Resource>
+    <Resource tag="ADDNEW">Add New Item </Resource>
+    <Resource tag="MOREDETAIL">More Detail</Resource>
+    <Resource tag="ITEM">Item</Resource>
+    <Resource tag="EDITITEM">Edit Item</Resource>
+    <Resource tag="TOTALTIME">Total Time</Resource>
+    <Resource tag="STARTTIME">Start Time</Resource>
+    <Resource tag="ENDTIME">End Time</Resource>
+    <Resource tag="PROGRAM">Program</Resource>
+    <Resource tag="CHANNEL">Channel</Resource>
+    <Resource tag="FILEINSERVER">File In Server</Resource>
+    <Resource tag="PROPERTY">Property</Resource>
+    <Resource tag="ONLINE">Online</Resource>
+  </page>
+	<page name="AD_USER">
+		<!-- "Common" at top of most pages -->
+		<Resource tag="USERNAME">USERNAME</Resource>
+		<Resource tag="PASSWORD">PASSWORD</Resource>
+		<Resource tag="EMAIL">Email</Resource>
+		<Resource tag="DESCRIPTION">NOTES</Resource>
+		<Resource tag="USE">USED</Resource>
+		<Resource tag="FILLDATA">FILL DATA</Resource>
+	</page>
+  <page name="AD_STATIC">
+    <!-- "Common" at top of most pages -->
+    <Resource tag="TITLE">Title</Resource>
+    <Resource tag="CONTENT">CONTENT</Resource>
+    <Resource tag="USE">Use?</Resource>
+    <Resource tag="SEARCH">Search</Resource>
+  </page>
+</Resources>

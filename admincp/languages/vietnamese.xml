@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Resources language="English" code="VI">
+  <page name="hotdeals">
+    <!-- common... -->
+    <Resource tag="category_list_hotdeals">123</Resource>
+  </page>
+  
+</Resources>

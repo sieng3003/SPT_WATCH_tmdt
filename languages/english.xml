@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Resources language="English" code="EN">
+  <!-- user... -->
+	<page name="MENU_TOP">
+		<!-- common... -->
+		<Resource tag="LANGUAGE">Language</Resource>
+		<Resource tag="HOME">Home</Resource>
+		<Resource tag="NEWS">News</Resource>
+		<Resource tag="FORUM">Forum</Resource>
+    <Resource tag="CONTACT">Contact</Resource>
+    <Resource tag="HELP">Help</Resource>
+    <Resource tag="KEYWORD">Key word</Resource>
+    <Resource tag="SEARCH">Search</Resource>
+    <Resource tag="TOURISM">Tourism</Resource>
+  </page>
+	<page name="MENU_LEFT">
+		<!-- "Toolbar" at top of most pages -->
+		<Resource tag="MAINMENU">Channels</Resource>
+		<Resource tag="VIEWBYDAY">View By Day</Resource>
+		<Resource tag="ADVERTS">Played Programs</Resource>
+    <Resource tag="LOGINFORM">Login Information</Resource>
+    <Resource tag="USERNAME">Username</Resource>
+    <Resource tag="PASSWORD">Password</Resource>
+    <Resource tag="REGISTER">Register</Resource>
+    <Resource tag="LOSTPASS">Forgot password</Resource>
+	</page>
+  
+</Resources>

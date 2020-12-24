@@ -1,0 +1,117 @@
+.button
+{
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight: bold;
+	color: #336699;
+	text-decoration: none;	
+}
+
+.Title {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #FF9933; FONT-FAMILY: Arial, Verdana; TEXT-DECORATION: none
+}
+
+.Content {
+	FONT-SIZE: 10pt; FONT-WEIGHT: normal; COLOR: black; FONT-FAMILY: Arial, Verdana; TEXT-ALIGN: justify
+}
+
+.WhiteText {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: #FFFFFF; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+.WhiteText:link {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: #FFFFFF; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+.WhiteText:visited {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: #FFFFFF; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+.WhiteText:hover {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: #FFFFFF; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: underline
+}
+
+
+.DarkText {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+.DarkText:link {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+.DarkText:visited {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+.DarkText:hover {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: red; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+
+.GrayText {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: #C0C0C0; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+.GrayText:link {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: #C0C0C0; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+.GrayText:visited {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: #C0C0C0; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+.GrayText:hover {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: underline
+}
+
+.Other {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+.Other:link {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+.Other:visited {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
+.Other:hover {
+	PADDING-LEFT: 0pt; FONT-WEIGHT: none; FONT-SIZE: 9pt; COLOR: #336699; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: underline
+}
+
+.Button {
+	font-family: Tahoma; font-size: 8pt
+}
+
+
+
+
+div.sample_attach, a.sample_attach
+{
+  width: 170px;
+  border: 1px solid #B4E14A;
+  background: #DDF791;
+  padding: 0px 5px;
+  font-weight: 900;
+  color: #000000;
+}
+
+a.sample_attach
+{
+  display: block;
+  border-bottom: none;
+  text-decoration: none;
+}
+
+form.sample_attach
+{
+  text-align: left;
+  width: 170px;
+  position: absolute;
+  visibility: hidden;
+  border: 1px solid #B4E14A;
+  background: #DDF791;
+  padding: 3px 5px 2px 5px;
+}
+
+
+table.Default{	
+	border-collapse: collapse;	border-style: solid; border-color: #66CC00;
+}
+
+tr.Header{
+	background-image: url("bg_header.gif");	background-repeat: repeat-x; font-family: tahoma; font-size: 11px; color: white;	font-weight: none;	text-align: center;
+}
+
+tr.MainCell{
+	background-image: url("bg_main.gif"); background-repeat: repeat-x; PADDING-LEFT: 3pt; FONT-WEIGHT: none; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-DECORATION: none
+}
